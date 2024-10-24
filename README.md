@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
 ---
 
 ## 🚀 What I'm Working On:
-- **Improving my skills** in React and exploring advanced concepts like Redux and Next.js.
+- **Improving my skills** in React and exploring advanced concepts especially with data structures and LeetCode questions.
 - Diving deeper into **C++** for high-performance application development.
 - Exploring **DevOps tools** like Docker and Kubernetes to enhance CI/CD pipelines.
 - Always eager to learn **new languages and frameworks** and to contribute to exciting projects!
@@ -69,4 +69,4 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
 ---
 
 ### ⚡ Fun Fact:
-- I started programming with **Minecraft plugins**, which helped me dive deep into Java and API development. Since then, I've expanded my skillset to full-stack web development, automation, and systems programming.
+I began my coding journey in 2016 during a high school computer science class where I was introduced to Python. From the start, I was captivated by the possibilities of programming and created various applications, including console-based tools and even simple games. The following year, I took AP Computer Science and expanded my skills by learning Java, where I built a few games from scratch. Since then, I've continued to sharpen my programming abilities every day, diving deeper into new languages, frameworks, and projects.
