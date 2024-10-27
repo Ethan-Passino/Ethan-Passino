@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
 
 ### 🌐 Web Development Software I've Used:
 - **Frontend**: 
-  - JavaScript, React.js, HTML5, CSS3
+  - JavaScript, React, HTML, CSS
 - **Backend**:
-  - Node.js, Express.js, PHP
+  - Node.js, Express, PHP
 - **Databases**: 
   - MySQL, MongoDB
 - **APIs**: 
@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
 - **Version Control**: Git & GitHub
 - **Containers**: Docker
 - **Testing**: Jest, Mocha
-- **CI/CD**: GitHub Actions, Jenkins
 
 ---
 
@@ -54,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
 ---
 
 ## 🚀 What I'm Working On:
-- **Improving my skills** in React and exploring advanced concepts especially with data structures and LeetCode questions.
+- **Improving my skills** in React and exploring advanced concepts especially with data structures.
 - Diving deeper into **C++** for high-performance application development.
 - Exploring **DevOps tools** like Docker and Kubernetes to enhance CI/CD pipelines.
 - Always eager to learn **new languages and frameworks** and to contribute to exciting projects!
