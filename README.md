@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
 ---
 
 ## 🚀 What I'm Working On:
-- **Improving my skills** in React and exploring advanced concepts especially with data structures.
+- **Improving my skills** in data structures and specifically understanding time-complexities and space-complexities.
 - Diving deeper into **C++** for high-performance application development.
 - Exploring **DevOps tools** like Docker and Kubernetes to enhance CI/CD pipelines.
 - Always eager to learn **new languages and frameworks** and to contribute to exciting projects!
