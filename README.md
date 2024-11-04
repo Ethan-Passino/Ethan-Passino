@@ -17,12 +17,14 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
   - RESTful APIs
 
 ### 💻 Programming Languages:
-- **Java**: Extensive experience, especially in plugin development using SpigotAPI for Minecraft.
-- **C++**: Used for creating high-performance applications and system-level development.
+- **Java**: Extensive experience, especially in plugin development using SpigotAPI for Minecraft, as well as GUI libraries and creating simple games from scratch.
+- **C++**: High-performance applications and system-level development.
+- **C**: Used for web scraping and applications with direct memory management.
 - **C#**: .NET development for desktop applications.
-- **Python**: From scripting to data analysis and backend web development (Django).
+- **Python**: Scripting, data analysis, and backend web development with Django.
 - **PHP**: Backend development for web applications.
-- **SQL**: Database management, queries, and design for relational databases.
+- **SQL**: Database management, query writing, and relational database design.
+- **JavaScript**: Backend web development and building feature-rich Discord bots.
 
 ### 🔧 Other Tools and Frameworks:
 - **Version Control**: Git & GitHub
@@ -37,26 +39,29 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
 - **SpigotAPI-based plugins** for Minecraft servers, allowing for custom gameplay mechanics and server optimizations.
 
 ### 🌐 Full Stack Web Applications
-- **JavaScript/React + Node.js/Express**: Built several full-stack web applications with modern JavaScript frameworks, RESTful APIs, and database integration (SQL & MongoDB).
+- **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (SQL & MongoDB).
 
+### 🤖 Discord Bots
+- Developed custom **Discord bots** featuring automation, moderation tools, and community engagement utilities using **JavaScript**.
+  
 ### 🐍 Python Projects
 - Automation scripts and backend services built using **Django**, ranging from web scraping to API development.
 
 ### 🖥️ C++ & C# Applications
 - Developed performance-critical desktop applications and system utilities using **C++**.
-- Built desktop applications with **C#** and **.NET Framework** for enhanced user interactions.
+- Built user-friendly desktop applications with **C#** and **.NET Framework**.
 
 ### 🛠️ Miscellaneous Projects
-- **PHP-based web applications** with SQL databases for backend services.
-- Experimentation with **Java**, **SpigotAPI**, and **game development** frameworks.
-  
+- **PHP-based web applications** with SQL database support.
+- Experiments in **game development** with **Java** and **SpigotAPI**.
+
 ---
 
 ## 🚀 What I'm Working On:
-- **Improving my skills** in data structures and specifically understanding time-complexities and space-complexities.
-- Diving deeper into **C++** for high-performance application development.
-- Exploring **DevOps tools** like Docker and Kubernetes to enhance CI/CD pipelines.
-- Always eager to learn **new languages and frameworks** and to contribute to exciting projects!
+- **Enhancing my understanding** of data structures and complexities (time and space).
+- Expanding my skills in **high-performance C++ application development**.
+- Exploring **DevOps tools** like Docker and Kubernetes for better CI/CD processes.
+- Always ready to learn **new languages and frameworks** and contribute to exciting projects!
 
 ---
 
@@ -68,4 +73,5 @@ Welcome to my GitHub profile! I'm a passionate and aspiring software engineer cu
 ---
 
 ### ⚡ Fun Fact:
-I began my coding journey in 2016 during a high school computer science class where I was introduced to Python. From the start, I was captivated by the possibilities of programming and created various applications, including console-based tools and even simple games. The following year, I took AP Computer Science and expanded my skills by learning Java, where I built a few games from scratch. Since then, I've continued to sharpen my programming abilities every day, diving deeper into new languages, frameworks, and projects.
+I began my coding journey in 2016 during a high school computer science class where I was introduced to Python. From the start, I was captivated by the possibilities of programming and created various applications, including console-based tools and simple games. The following year, I took AP Computer Science and expanded my skills with Java, where I built several games from scratch. Since then, I've continued to sharpen my programming abilities, exploring new languages, frameworks, and projects.
+
