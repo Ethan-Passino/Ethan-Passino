@@ -19,7 +19,7 @@
 - **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (SQL & MongoDB).
 
 ### 🤖 Discord Bots
-- Developed custom **Discord bots** featuring automation, moderation tools, and community engagement utilities using **JavaScript**.
+- Developed custom **Discord bots** featuring automation, moderation tools, and community engagement utilities using **JavaScript**. (See my Nimbus Repository for more details)
   
 ### 🐍 Python Projects
 - Automation scripts and backend services built using **Django**, ranging from web scraping to API development.
