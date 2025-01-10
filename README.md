@@ -10,46 +10,53 @@
 [![](https://awesome-github-stats.azurewebsites.net/user-stats/Ethan-Passino?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Passino&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Some of My Projects:
+# 🛠️ Some of My Projects
 
-### 🎮 Minecraft Plugins
-- **SpigotAPI-based plugins** for Minecraft servers, allowing for custom gameplay mechanics and server optimizations.
+## 🎮 Minecraft Plugins
+- **SpigotAPI-based plugins** for Minecraft servers, featuring custom gameplay mechanics, server optimizations, and innovative utilities.  
 
-### 🌐 Full Stack Web Applications
-- **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (SQL & MongoDB).
+## 🌐 Full Stack Web Applications
+- **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (SQL & MongoDB).  
+- **TypeScript**: Actively developing [**TaskFlow**](https://github.com/Ethan-Passino/TaskFlow), a task management app designed to track project progress with unique features.
 
-### 🤖 Discord Bots
-- Developed custom **Discord bots** featuring automation, moderation tools, and community engagement utilities using **JavaScript** and **Discord.js**. (See my Nimbus Repository for more details)
-  
-### 🐍 Python Projects
-- Automation scripts and backend services built using **Django**, ranging from web scraping to API development.
+## 🤖 Discord Bots
+- Developed custom **Discord bots** using **JavaScript** and **Discord.js**.  
+  - Notable bot: [**Nimbus**](https://github.com/Ethan-Passino/Nimbus), with features like:  
+    - Automated moderation tools and logging systems.  
+    - Leveling systems, role rewards, and analytics tracking.  
+    - YouTube music playback functionality and advanced server activity tracking.  
 
-### 🖥️ C++ & C# Applications
-- Developed performance-critical desktop applications and system utilities using **C++**.
-- Built user-friendly desktop applications with **C#** and **.NET Framework**.
+## 🐍 Python Projects
+- Built automation scripts and backend services with **Django**, including web scraping tools and custom API development.  
 
-### 🛠️ Miscellaneous Projects
-- **PHP-based web applications** with SQL database support.
-- Experiments in **game development** with **Java** and **SpigotAPI**.
+## 🖥️ C++ & C# Applications
+- **C++**: Developed high-performance applications, including a [**Rewinder Batch Trimming & Scheduling System**](https://github.com/Ethan-Passino/BatchTrimmingSystem) for manufacturing optimization.  
+- **C#**: Created user-friendly desktop utilities and tools using the **.NET Framework**.  
 
----
-
-## 🚀 What I'm Working On:
-- **Enhancing my understanding** of data structures and complexities (time and space).
-- Expanding my skills in **high-performance C++ application development**.
-- Exploring **DevOps tools** like Docker and Kubernetes for better CI/CD processes.
-- Always ready to learn **new languages and frameworks** and contribute to exciting projects!
+## 🛠️ Miscellaneous Projects
+- **PHP-based web applications** with SQL database integration.  
+- Experimented in **game development** with **Java** and **SpigotAPI**.  
 
 ---
 
-## 📫 Let's Connect:
-- **GitHub**: [Ethan-Passino](https://github.com/Ethan-Passino)
-- **Discord**: technicium
-- **Email**: itzethanpassino@gmail.com
+# 🚀 What I'm Working On
+- Building [**Nimbus**](https://github.com/Ethan-Passino/Nimbus), a feature-rich Discord bot with moderation, music playback, and analytics.  
+- Expanding **high-performance C++ development skills**.  
+- Exploring **DevOps tools** like Docker and Kubernetes for CI/CD workflows.  
+- Enhancing expertise in **TypeScript** for scalable web application development.  
+- Working on a **personal finance app** to manage budgets and expenses effectively.  
 
 ---
 
-### ⚡ Fun Fact:
-I began my coding journey in 2016 during a high school computer science class where I was introduced to Python. From the start, I was captivated by the possibilities of programming and created various applications, including console-based tools and simple games. The following year, I took AP Computer Science and expanded my skills with Java, where I built several games from scratch. Since then, I've continued to sharpen my programming abilities, exploring new languages, frameworks, and projects.
+# 📫 Let's Connect
+- **GitHub**: [Ethan-Passino](https://github.com/Ethan-Passino)  
+- **Discord**: technicium  
+- **Email**: itzethanpassino@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I started coding in 2016 in a high school computer science class, learning Python. My fascination with programming began with building console-based applications and simple games. The following year, I explored **Java** in AP Computer Science, creating several games from scratch. Since then, I’ve dived into a range of technologies and continually work on sharpening my skills through diverse projects.
 
 [![](https://visitcount.itsvg.in/api?id=Ethan-Passino&icon=0&color=0)](https://visitcount.itsvg.in)
+
