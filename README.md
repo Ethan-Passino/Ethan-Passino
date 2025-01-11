@@ -48,6 +48,14 @@
 
 ---
 
+## 🧠 Skills
+- **Programming Languages**: Python, Java, C++, C#, JavaScript, TypeScript, PHP
+- **Frameworks & Libraries**: React, Node.js, Express, Django, .NET
+- **Tools & Technologies**: Git, Docker, Kubernetes, MongoDB, SQL, Tailwind CSS
+- **Other**: Discord.js, SpigotAPI
+
+---
+
 # 📫 Let's Connect
 - **GitHub**: [Ethan-Passino](https://github.com/Ethan-Passino)  
 - **Discord**: technicium  
