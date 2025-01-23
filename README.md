@@ -66,5 +66,7 @@
 ## ⚡ Fun Fact
 I started coding in 2016 in a high school computer science class, learning Python. My fascination with programming began with building console-based applications and simple games. The following year, I explored **Java** in AP Computer Science, creating several games from scratch. Since then, I’ve dived into a range of technologies and continually work on sharpening my skills through diverse projects.
 
-[![](https://visitcount.itsvg.in/api?id=Ethan-Passino&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ethan-Passino/count.svg?"  />
+</div>
 
