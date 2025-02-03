@@ -17,7 +17,7 @@
 
 ## 🌐 Full Stack Web Applications
 - **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (SQL & MongoDB).  
-- **TypeScript**: Actively developing [**TaskFlow**](https://github.com/Ethan-Passino/TaskFlow), a task management app designed to track project progress with unique features.
+- **TypeScript**: Actively developing [**NodeChat**](https://github.com/Ethan-Passino/NodeChat), a chat web application.
 
 ## 🤖 Discord Bots
 - Developed custom **Discord bots** using **JavaScript** and **Discord.js**.  
