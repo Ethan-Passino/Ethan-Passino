@@ -16,16 +16,16 @@
 - **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (SQL & MongoDB).  
 - **TypeScript**: Actively developing [**NodeChat**](https://github.com/Ethan-Passino/NodeChat), a chat web application.
 
+## 🖥️ C++ & C# Applications
+- **C++**: Developed high-performance applications, including a **Rewinder Batch Trimming & Scheduling System** for manufacturing optimization.  
+- **C#**: Created user-friendly desktop utilities and tools using the **.NET Framework**.  
+
 ## 🤖 Discord Bots
 - Developed custom **Discord bots** using **JavaScript** and **Discord.js**.  
   - Notable bot: [**Nimbus**](https://github.com/Ethan-Passino/Nimbus), with features like:  
     - Automated moderation tools and logging systems.  
     - Leveling systems, role rewards, and analytics tracking.  
     - YouTube music playback functionality and advanced server activity tracking.
-
-## 🖥️ C++ & C# Applications
-- **C++**: Developed high-performance applications, including a **Rewinder Batch Trimming & Scheduling System** for manufacturing optimization.  
-- **C#**: Created user-friendly desktop utilities and tools using the **.NET Framework**.  
 
 ## 🐍 Python Projects
 - Built automation scripts and backend services with **Django**, including web scraping tools and custom API development.  
