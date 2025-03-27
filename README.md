@@ -18,7 +18,7 @@
 
 ## 🖥️ C++ & C# Applications
 - **C++**: Developed high-performance applications, including a **Rewinder Batch Trimming & Scheduling System** for manufacturing optimization.  
-- **C#**: Created user-friendly desktop utilities and tools using the **.NET Framework**.  
+- **C#**: Created user-friendly desktop utilities and tools using the **.NET Framework** specifically my personal finance app. 
 
 ## 🤖 Discord Bots
 - Developed custom **Discord bots** using **JavaScript** and **Discord.js**.  
