@@ -10,15 +10,15 @@
 [![](https://awesome-github-stats.azurewebsites.net/user-stats/Ethan-Passino?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Passino&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🛠️ Some of My Projects
+# 🛠️ A few projects I've Created
 
 ## 🌐 Full Stack Web Applications
-- **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (SQL & MongoDB).  
+- **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (MySQL & MongoDB).  
 - **TypeScript**: developed [**TaskFlow**](https://github.com/Ethan-Passino/TaskFlow), a task management web application.
 
 ## 🖥️ C++ & C# Applications
 - **C++**: Developed high-performance applications, including a **Rewinder Batch Trimming & Scheduling System** for manufacturing optimization.  
-- **C#**: Created user-friendly desktop utilities and tools using the **.NET Framework** specifically my personal finance app. 
+- **C#**: Created user-friendly desktop utilities and tools using the **.NET Framework** like [**PersonalFinanceApp**](https://github.com/Ethan-Passino/PersonalFinanceApp)
 
 ## 🤖 Discord Bots
 - Developed custom **Discord bots** using **JavaScript** and **Discord.js**.  
@@ -31,11 +31,12 @@
 - Built automation scripts and backend services with **Django**, including web scraping tools and custom API development.  
 
 ## 🎮 Minecraft Plugins
-- **SpigotAPI-based plugins** for Minecraft servers, featuring custom gameplay mechanics, server optimizations, and innovative utilities.  
+- **SpigotAPI-based plugins** for Minecraft servers, featuring custom gameplay mechanics, server optimizations, and innovative utilities such as [**BrickThrower**](https://github.com/Ethan-Passino/BrickThrower)  
 
 ## 🛠️ Miscellaneous Projects
 - **PHP-based web applications** with SQL database integration.  
-- Experimented in **game development** with **Java** and **SpigotAPI**.  
+- Experimented in **game development** with **Java** and **SpigotAPI**.
+- Text adventure game in **python** called [**Dragons**](https://github.com/Ethan-Passino/Dragons)
 
 ---
 
@@ -44,7 +45,7 @@
 - Expanding **high-performance C++ development skills**.  
 - Exploring **DevOps tools** like Docker and Kubernetes for CI/CD workflows.  
 - Enhancing expertise in **TypeScript** for scalable web application development.  
-- Working on a **personal finance app** to manage budgets and expenses effectively.  
+- Maintaining my [**PersonalFinanceApp**](https://github.com/Ethan-Passino/PersonalFinanceApp) for managing finances.  
 
 ---
 
