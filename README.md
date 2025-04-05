@@ -10,7 +10,7 @@
 [![](https://awesome-github-stats.azurewebsites.net/user-stats/Ethan-Passino?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Passino&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🛠️ A few projects I've Created
+# 🛠️ Projects I've Created
 
 ## 🌐 Full Stack Web Applications
 - **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (MySQL & MongoDB).  
