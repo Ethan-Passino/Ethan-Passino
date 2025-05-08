@@ -50,7 +50,7 @@
 ---
 
 ## 🧠 Skills
-- **Programming Languages**: Python, Java, C++, C#, JavaScript, TypeScript, PHP
+- **Programming Languages**: Python, Java, C, C++, C#, JavaScript, TypeScript, PHP
 - **Frameworks & Libraries**: React, Node.js, Express, Django, .NET
 - **Tools & Technologies**: Git, Docker, Kubernetes, MongoDB, SQL, Tailwind CSS
 - **Other**: Discord.js, SpigotAPI
