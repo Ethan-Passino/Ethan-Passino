@@ -15,6 +15,7 @@
 ## 🌐 Full Stack Web Applications
 - **JavaScript/React + Node.js/Express**: Built several full-stack web applications integrating RESTful APIs and database solutions (MySQL & MongoDB).  
 - **TypeScript**: developed [**TaskFlow**](https://github.com/Ethan-Passino/TaskFlow), a task management web application.
+- **PHP**: Built a few websites such as a forums based website with PHP.
 
 ## 🖥️ C++ & C# Applications
 - **C++**: Developed high-performance applications, including a **Rewinder Batch Trimming & Scheduling System** for manufacturing optimization.  
